@@ -2,18 +2,18 @@
 <items version="2" >
 
     <item
-        jar="/Users/zhaotf/workspaces/AndInUpdate_Lua/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.0.1/jars/classes.jar"
-        jumboMode="false"
-        revision="19.1.0"
-        sha1="f71a6822470c9eb659d4f4a6cb57b780b35f058b">
-        <dex dex="/Users/zhaotf/workspaces/AndInUpdate_Lua/app/build/intermediates/pre-dexed/debug/classes-fc96e1cf76d2e7215655fa890e197f25ab9ab9d6.jar" />
-    </item>
-    <item
         jar="/Users/zhaotf/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/19.0.1/support-v4-19.0.1.jar"
         jumboMode="false"
         revision="19.1.0"
         sha1="587da9a481ffd341d2fa091704489b89845ddacd">
         <dex dex="/Users/zhaotf/workspaces/AndInUpdate_Lua/app/build/intermediates/pre-dexed/debug/support-v4-19.0.1-94ce6fc7a934e56e618ea127f97880d459742cb5.jar" />
+    </item>
+    <item
+        jar="/Users/zhaotf/workspaces/AndInUpdate_Lua/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="f71a6822470c9eb659d4f4a6cb57b780b35f058b">
+        <dex dex="/Users/zhaotf/workspaces/AndInUpdate_Lua/app/build/intermediates/pre-dexed/debug/classes-fc96e1cf76d2e7215655fa890e197f25ab9ab9d6.jar" />
     </item>
 
 </items>
